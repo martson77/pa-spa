@@ -10,4 +10,4 @@ Run the app
    $ npm run dev
    ```
 
-
+To test different data. Make changes on line 10 of index.js

@@ -2,7 +2,11 @@ import Head from "next/head";
 import { useState } from "react";
 import styles from "./index.module.css";
 import stringSimilarity from "string-similarity";
-// Change filename to test other data
+/*
+Change filename to test other data
+// import data from "./api/fotboll.json";
+// import data from "./api/flod.json";
+*/
 import data from "./api/vin.json";
 
 export default function Home() {
