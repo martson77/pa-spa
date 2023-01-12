@@ -28,19 +28,16 @@ const clean = (str) => {
   str = str.join('')
   return str.replace(/[^\w\såäö]/gi, '');
 }
-
-
-
+/*
 const replaceSpecialChars = (str) => {
 	return str.normalize('NFD').replace(/[\u0300-\u036f]/g, '') // Remove accents
     .replace(/([^\w]+|\s+)/g, '-') // Replace space and other characters by hyphen
 		.replace(/\-\-+/g, '-')	// Replaces multiple hyphens by one hyphen
 		.replace(/(^-+|-+$)/g, '').toLowerCase(); // Remove extra hyphens from beginning or end of the string
 }
+*/
 
   const [answerInput, setAnswerInput] = useState("");
-  // const [optionOneInput, setOptionOneInput] = useState("");
-  // const [optionTwoInput, setOptionTwoInput] = useState("");
   const [result, setResult] = useState();
   const [info, setInfo] = useState();
   const [item, setInput] = useState('');
