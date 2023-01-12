@@ -1,0 +1,29 @@
+{
+    "question":"Vilken världsberömd tränare startade karriären i Degerfors?",
+    "options":[
+       {
+          "option":"Tommy Svensson",
+          "is_correct":false
+       },
+       {
+          "option":"Lars Lagerbäck",
+          "is_correct":false
+       },
+       {
+          "option":"Erik Hamrén",
+          "is_correct":false
+       },
+       {
+          "option":"Sven-Göran \"Svennis\" Eriksson",
+          "is_correct":true
+       },
+       {
+         "option":"Svennis",
+         "is_correct":true
+      },
+      {
+         "option":"Sven-Göran Eriksson",
+         "is_correct":true
+      }
+    ]
+}

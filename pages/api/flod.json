@@ -1,0 +1,45 @@
+{
+    "question":"Vad heter den stora floden i Avignon?",
+                "options":[
+                   {
+                      "option":"Loire",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Seine",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Rhen",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Garonne",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Mosel",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Donau",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Rhône",
+                      "is_correct":true
+                   },
+                   {
+                      "option":"Somme",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Elbe",
+                      "is_correct":false
+                   },
+                   {
+                      "option":"Oise",
+                      "is_correct":false
+                   }
+                ]
+}

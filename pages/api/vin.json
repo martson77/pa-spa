@@ -1,0 +1,45 @@
+{
+    "question":"Vad heter det berömda vinområdet?",
+    "options":[
+       {
+          "option":"Beaujolais noveau ",
+          "is_correct":false
+       },
+       {
+          "option":"Valpolicella ",
+          "is_correct":false
+       },
+       {
+          "option":"Châteauneuf-du-Pape ",
+          "is_correct":true
+       },
+       {
+          "option":"Languedoc ",
+          "is_correct":false
+       },
+       {
+          "option":"Alsace ",
+          "is_correct":false
+       },
+       {
+          "option":"Château-Grillet ",
+          "is_correct":false
+       },
+       {
+          "option":"Bourgogne ",
+          "is_correct":false
+       },
+       {
+          "option":"Sancerre",
+          "is_correct":false
+       },
+       {
+          "option":"Château Lafite Rothchild",
+          "is_correct":false
+       },
+       {
+          "option":"Dom Perignon ",
+          "is_correct":false
+       }
+    ]
+}
